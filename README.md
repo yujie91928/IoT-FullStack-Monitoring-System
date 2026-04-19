@@ -1,11 +1,11 @@
 # 全棧物聯網即時環境監控系統 IoT Full-Stack Monitoring System
 (ESP32 + DHT22 + MQTT + .NET + PHP)
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Docker](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)
-![Mosquitto](https://img.shields.io/badge/Broker-Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%20Core-8.0-purple?logo=dotnet)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Docker](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)](https://www.docker.com/)
+[![Mosquitto](https://img.shields.io/badge/Broker-Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)](https://mosquitto.org/)
+[![.NET](https://img.shields.io/badge/.NET%20Core-8.0-purple?logo=dotnet)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
 
 ## 📖 專案簡介
 本專案實作了一套完整的 **工業物聯網 (IoT)** 數據採集與監控方案。從硬體端傳感器採集、傳輸協議校準、後端非同步入庫到前端即時數據可視化，展示了跨平台技術整合。
